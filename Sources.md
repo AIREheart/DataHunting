@@ -6,3 +6,5 @@ Functional genomics data
 **[NLM Dataset Catalog](https://datasetcatalog.nlm.nih.gov/)**
 
 **[Gene Expression Omnibus (GEO)](https://www.ncbi.nlm.nih.gov/geo/)**
+
+**[Human Immune Health Atlas (Allen Institute for Immunology)](https://apps.allenimmunology.org/aifi/resources/imm-health-atlas/)**
