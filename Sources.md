@@ -1,6 +1,8 @@
 **[Encode Project](https://www.encodeproject.org/)**
 Functional genomics data
 
+**[Ensembl Genome Database](https://useast.ensembl.org/)**
+
 **[IHEC Data Portal](https://epigenomesportal.ca/ihec/index.html?as=1)**
 
 **[NLM Dataset Catalog](https://datasetcatalog.nlm.nih.gov/)**
